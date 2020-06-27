@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Srisakdi:400,700');
 
 header{
-	background: #fff;
+	background: rgb(240, 185, 6);
 }
 
 /* Banner Section */
@@ -12,11 +12,11 @@ header{
 	padding: 50px 0px;
 }
 .banner h1{
-	color:#000;
+	color:rgb(223, 56, 14);
 	padding-top: 175px;
 }
 .banner p{
-	color: #fff;
+	color: rgb(231, 173, 13);
 	font-size: 25px;
 	font-style: italic;
 	font-weight: 40px;
@@ -25,13 +25,13 @@ header{
 	color: #fff;
 }
 .banner h2{
-	color: #1fdfe0;;
+	color: #f18c07;;
 }
 .banner-content{
 	margin-top: 75px;
 }
 .btn-banner{
-	background: #fff;
+	background: rgb(240, 177, 5);
     color: orange;
     padding: 7px 25px;
     border-radius: 25px;
@@ -41,10 +41,10 @@ header{
 /* News Section Start  */
 .news{
 	padding: 75px 0px;
-	background: #edeff1;
+	background: #e48b06;
 }
 .btn-news{
-	background: #fff;
+	background: rgb(219, 56, 7);
     color: orange;
     padding: 7px 25px;
     border-radius: 25px;
@@ -57,14 +57,14 @@ header{
 	background-size: cover;
 }
 .newsletter-opacity{
-	background: rgba(0,0,0,.5);
+	background: rgba(216, 15, 8, 0.5);
     padding: 100px 0px;
 }
 .newsletter h2{
-	color: #fff;
+	color: rgb(230, 129, 14);
 }
 .newsletter p{
-	color: #fff;
+	color: rgb(230, 136, 14);
 }
 .form-group{
 	position: relative;
@@ -88,14 +88,14 @@ header{
 /*about section css*/
 .about{
 	padding: 75px 0px;
-	background: #fff;
+	background: rgb(241, 198, 6);
 }
 .about ul{
 	list-style: none;
 }
 .about ul li{
 	padding-bottom: 5px;
-	color: #fff;
+	color: rgb(231, 174, 18);
 }
 
 /*portfolio section css*/
@@ -105,7 +105,7 @@ header{
 	background-size: cover;
 }
  .Portfolio p{
- 	color: #fff;
+ 	color: rgb(230, 179, 13);
  	padding: 10px;
  	font-size: 25px;
 	font-style: italic;
